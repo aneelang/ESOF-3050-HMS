@@ -3,7 +3,7 @@ Development of a Hospital Management System.
 
 ## Deadlines
 |Date| Topic|
--------------
+|------|-------|
 |19th October 2020 | SRS and SPMP|
 |30th October 2020 | Database implementation|
 |10th November 2020 | Client Server Architecture|
