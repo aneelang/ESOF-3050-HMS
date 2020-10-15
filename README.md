@@ -15,7 +15,7 @@ Development of a Hospital Management System.
 
 ## Team Leads
 ### Front End
-### Adithya Krishna
+#### Adithya Krishna
 ### Networking
 #### Umang Shah
 ### Database
