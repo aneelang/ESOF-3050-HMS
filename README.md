@@ -9,4 +9,3 @@ Development of a Hospital Management System.
 |10th November 2020 | Client Server Architecture|
 |23rd November 2020 | Front End Implemtation|
 |27th November 2020 | Presentation Deadline|
-|--------------------|-----------------------|
