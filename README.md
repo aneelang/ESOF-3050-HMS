@@ -14,9 +14,6 @@ Development of a Hospital Management System.
 |27th November 2020 | Presentation Deadline|
 
 ## Team Leads
-### Front End
-#### Adithya Krishna
-### Networking
-#### Umang Shah
-### Database
-#### Ananthakrishnan
+### Front End - Adithya Krishna
+### Networking - Umang Shah
+### Database - Ananthakrishnan
