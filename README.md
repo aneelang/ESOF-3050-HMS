@@ -16,10 +16,10 @@ Development of a Hospital Management System.
 ## Team Submission Deadlines
 |TOPIC| DATE|
 |-------|-------|
--[]|Specifications and SPMP Documents|October 19th 2020|
--[]|Design Document|November 2nd 2020|
--[]|Testing Document|November 19th, 2020|
--[]|Final Demo, Oral Presentation, Documentation, Code submission|November 27th 2020|
+-[ ]|Specifications and SPMP Documents|October 19th 2020|
+-[ ]|Design Document|November 2nd 2020|
+-[ ]|Testing Document|November 19th, 2020|
+-[ ]|Final Demo, Oral Presentation, Documentation, Code submission|November 27th 2020|
 
 ## Team Leads
 ### Front End - Adithya Krishna
